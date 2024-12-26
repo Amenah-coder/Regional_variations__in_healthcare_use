@@ -59,7 +59,4 @@ The do-file generates the following output files:
 
 
 
-[Optional: Add a license, such as MIT or GPL. This specifies how others can use your code.]
-
-
 
