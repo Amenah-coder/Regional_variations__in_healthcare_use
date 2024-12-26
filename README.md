@@ -1,7 +1,7 @@
 # Regional_variations__in_healthcare_use
 # Replication Materials for Regional Disparities in Healthcare Expenditure in Ghana
 
-This repository contains the Stata do-file used for the analysis of regional disparities in healthcare expenditure in Ghana, as presented in Are regional variations in health care use, within a country, due to patient characteristics?.
+This repository contains the Stata do-file used for the analysis of regional disparities in healthcare expenditure in Ghana.
 
 
 **Description:**
