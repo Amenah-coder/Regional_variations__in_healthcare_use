@@ -1,13 +1,8 @@
 # Regional_variations__in_healthcare_use
 # Replication Materials for Regional Disparities in Healthcare Expenditure in Ghana
 
-This repository contains the Stata do-file used for the analysis of regional disparities in healthcare expenditure in Ghana, as presented in [Your Paper Title/Manuscript].
+This repository contains the Stata do-file used for the analysis of regional disparities in healthcare expenditure in Ghana, as presented in Are regional variations in health care use, within a country, due to patient characteristics?.
 
-**Authors:**
-
-*   [Your Name]
-*   [Your Affiliation]
-*   [Your Email Address (Optional)]
 
 **Description:**
 
@@ -24,7 +19,7 @@ This do-file performs the following steps:
 
 **Data Sources:**
 
-The initial data used in this analysis is from the Ghana Living Standards Survey (GLSS7), available from the Ghana Statistical Service website: [Link to Ghana Statistical Service Website/GLSS7 Data Page, if available]. Due to data use agreements, the initial datasets used for merging are not included in this repository. The final merged dataset used for the analysis is included as `Regional_differences.dta`.
+The initial data used in this analysis is from the Ghana Living Standards Survey (GLSS7), available from the Ghana Statistical Service website: [https://microdata.statsghana.gov.gh/index.php/catalog/97]. Due to data use agreements, the initial datasets used for merging are not included in this repository. The final merged dataset used for the analysis is included as `Regional_differences.dta`.
 
 **Software Requirements:**
 
@@ -61,9 +56,8 @@ The do-file generates the following output files:
 
 *   `oa1.doc`: Output from the Oaxaca decomposition.
 *   `region.doc`: Output from the OLS regressions.
-* `region2.doc`: Output from the Logistic regressions.
 
-**License:**
+
 
 [Optional: Add a license, such as MIT or GPL. This specifies how others can use your code.]
 
